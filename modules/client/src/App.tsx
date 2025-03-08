@@ -18,7 +18,7 @@ const App: FC = () => {
           position="absolute"
           top={5}
           right={5}
-          href="https://github.com/m-rejdych/multi-paint"
+          href="https://github.com/reyidaas/multi-paint"
           target="_blank"
           color="gray.500"
         >
