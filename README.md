@@ -8,7 +8,3 @@ Simple app for collaborative painting.
 - Express
 - WS
 - React
-
-## Demo
-
-https://multi-paint.mrejdych.com/
